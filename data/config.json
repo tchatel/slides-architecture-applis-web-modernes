@@ -1,0 +1,12 @@
+{
+    "title": "Architecture des applications web modernes",
+    "sections": [
+        {"file": "data/conf/intro/slides.md"},
+        {"file": "data/conf/client-js/slides.md"},
+        {"file": "data/conf/serveur-rest/slides.md"},
+        {"file": "data/conf/mobile/slides.md"},
+        {"file": "data/conf/html5/slides.md"},
+        {"file": "data/conf/architecture/slides.md"},
+        {}
+    ]
+}
