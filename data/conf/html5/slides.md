@@ -4,6 +4,33 @@
 
 !SLIDE bullets ============================
 
+# CSS
+
+* Transitions CSS
+* Animations CSS
+* Transformations CSS 2D & 3D
+
+<a href="http://css3.bradshawenterprises.com/transforms/#cubecarousel">![](cube-css.png)</a>
+
+!SLIDE bullets ============================
+
+# touch events
+
+![](touch1.png)
+![](touch2.png)
+![](touch3.png)
+
+## + libs JS
+
+!SLIDE bullets ============================
+
+# responsive design
+
+![](responsive.png)
+
+
+!SLIDE bullets ============================
+
 # historique du navigateur
 
 ### Single Page Application
@@ -43,17 +70,43 @@
 * File System
 
 
+!SLIDE image ============================
+
+![](offline.jpg)
+![](sync.png)
+
+!SLIDE bullets ============================
+
+# noBackend
+## (commercial)
+
+![](parse.png)
+![](firebase.png)
+![](backendless.png)
+![](kinvey.png)
+
+
 !SLIDE bullets ============================
 
 # noBackend
 ## (open source)
 
 <table>
- <tr><td rowspan="2"><a href="http://deployd.com/">![](deployd.png)</a></td></tr>
- <tr><td><a href="http://hood.ie/">![](hoodie.png)</a>
-     <a href="http://http://remotestorage.io/">![](remotestorage.png)</a></td></tr>
+ <tr><td rowspan="2">![](deployd.png)</td></tr>
+ <tr><td>![](hoodie.png)
+     ![](remotestorage.png)</td></tr>
 </table>
 
+
+!SLIDE bullets ============================
+
+# frontend = backend
+
+<br/>
+
+## <span class="bigger">Meteor</span> <span class="small red">(GPL)</span>
+<br/>
+## <span class="bigger">Derby</span> <span class="small green">(MIT)</span>
 
 
 !SLIDE image ============================
@@ -65,3 +118,7 @@
 
 <span class="biggest bold">http://miniurl.org/cube</span>
 
+
+!SLIDE bullets ============================
+
+# SEO (TODO)
