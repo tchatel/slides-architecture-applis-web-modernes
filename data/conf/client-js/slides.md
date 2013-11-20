@@ -49,6 +49,11 @@
 
 # TODO IMG client serveur dans le browser
 
+* TODO ...
+* TODO ...
+* TODO ...
+
+
 
 !SLIDE image ============================
 
