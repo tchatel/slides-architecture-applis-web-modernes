@@ -6,6 +6,7 @@
         {"file": "data/conf/serveur-rest/slides.md"},
         {"file": "data/conf/mobile/slides.md"},
         {"file": "data/conf/html5/slides.md"},
+        {"file": "data/conf/public/slides.md"},
         {}
     ]
 }

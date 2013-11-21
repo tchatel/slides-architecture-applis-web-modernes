@@ -22,10 +22,14 @@
 
 # HTTP request method
 
-* GET _(safe)_ : récupère une ressource ou une collection
-* PUT _(idempotent)_ : met à jour une ressource
-* DELETE _(idempotent)_ : supprime une ressource
-* POST : ajoute une ressource à une collection, fait une opération sur une ressource
+* <span class="red">GET</span> _(safe)_</span>
+    <span class="small"> : récupère une ressource ou une collection</span>
+* <span class="red">PUT</span> _(idempotent)_
+    <span class="small"> : met à jour une ressource</span>
+* <span class="red">DELETE</span> _(idempotent)_
+    <span class="small"> : supprime une ressource</span>
+* <span class="red">POST</span>
+    <span class="small"> : ajoute une ressource à une collection, fait une opération sur une ressource</span>
 
 !SLIDE bullets ============================
 
@@ -34,9 +38,9 @@
 * status HTTP
 * données de la ressource
 
-!SLIDE bullets ============================
+!SLIDE bullets small ============================
 
-# exemples de requêtes
+# <span class="bigger">exemples de requêtes</span>
 
 * GET /users/123/cards
 * GET /users/123/cards/456

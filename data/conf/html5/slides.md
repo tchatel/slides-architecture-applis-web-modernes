@@ -1,6 +1,6 @@
 !SLIDE subsection ====================================================================================
 
-# HTML5, CSS3...
+# HTML5, CSS3, etc.
 
 !SLIDE bullets ============================
 
@@ -117,9 +117,4 @@
 ![](cube.png)
 
 <span class="biggest bold">http://miniurl.org/cube</span>
-
-
-!SLIDE bullets ============================
-
-# SEO (TODO)
 

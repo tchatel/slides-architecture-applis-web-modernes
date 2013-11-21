@@ -1,5 +1,10 @@
 /* user-defined styles */
 
+.moi #reseaux img {
+    vertical-align: middle;
+    margin: 0 7px 5px 0;
+}
+
 div.slide {
     font-family: Helvetica, Arial, Verdana, sans-serif
 }
@@ -60,18 +65,21 @@ div.slide.back img {
     margin: 0 0 0.2em 0;
 }
 .slide.bullets ul, .slide.bullets ol {
-    font-size: 1.10em;
-    margin: 0.6em 0 0 1.8em;
+    font-size: 1.3em;
+    margin: 0.7em 0 0 2em;
     padding: 0;
 }
 .slide.bullets ol {
     list-style-type: lower-latin;
 }
 .slide.bullets ul li, .slide.bullets ol li {
-    margin: 0.4em 0 0.4em 0;
-    padding: 0.4em 0 0 0;
-    border-top: 3px dotted grey;
+    margin: 0.8em 0 0.8em 0;
+    padding: 0;
+    list-style-type: none;
+    background: url('img/puce1.png') no-repeat top left;
+    padding-left: 48px;
 }
+
 .slide.bullets ul li:first-child, .slide.bullets ol li:first-child {
     border-top: none;
 }
@@ -86,7 +94,7 @@ div.slide.back img {
 }
 
 .slide.bullets ul ul, .slide.bullets ol ul {
-    font-size: 0.80em;
+    font-size: 0.85em;
     margin: 0 0 0.5em 1em;
     padding: 0;
     color: #521;
@@ -97,6 +105,10 @@ div.slide.back img {
     line-height: 1.3em;
     padding: 0;
     border-top: none;
+
+    list-style-type: none;
+    background: url('img/puce2.png') no-repeat top left;
+    padding-left: 38px;
 }
 .slide.bullets ul ul li p, .slide.bullets ol ul li p {
     margin: 0.1em 0 0.1em 0;

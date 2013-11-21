@@ -1,13 +1,13 @@
 !SLIDE subsection ====================================================================================
 
-# Les nouveaux clients JS
+# nouveaux clients JS
 
 
 
 !SLIDE ============================
 
 # frameworks JS
-#   SPA
+# SPA
 
 !SLIDE ============================
 
@@ -39,20 +39,6 @@
 * API serveur de type REST
 * montée en charge plus facile
 * client-serveur dans le browser
-
-
-!SLIDE ============================
-
-# TODO IMG duplicable
-
-!SLIDE ============================
-
-# TODO IMG client serveur dans le browser
-
-* TODO ...
-* TODO ...
-* TODO ...
-
 
 
 !SLIDE image ============================
