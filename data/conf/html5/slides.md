@@ -104,9 +104,9 @@
 
 <br/>
 
-## <span class="bigger">Meteor</span> <span class="small red">(GPL)</span>
+## <span class="bigger">Meteor</span>
 <br/>
-## <span class="bigger">Derby</span> <span class="small green">(MIT)</span>
+## <span class="bigger">Derby</span>
 
 
 !SLIDE image ============================
